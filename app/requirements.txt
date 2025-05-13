@@ -1,3 +1,10 @@
 numpy==1.26.3
 streamlit==1.30.0
 tensorflow==2.15.0.post1
+streamlit
+scikit-learn
+pandas
+numpy
+matplotlib
+Pillow
+joblib
